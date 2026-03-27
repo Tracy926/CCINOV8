@@ -1,0 +1,8 @@
+
+{
+  "name": "SariSariPay - Micro-POS & Payments",
+  "description": "A comprehensive mobile POS and cashless payment solution designed for sari-sari store owners to manage inventory, track sales, and accept digital payments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
